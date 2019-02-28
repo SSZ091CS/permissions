@@ -1,0 +1,13 @@
+<code_scheme name="Default" version="173">
+  <PHPCodeStyleSettings>
+    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
+    <option name="PHPDOC_KEEP_BLANK_LINES" value="false" />
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="PHPDOC_USE_FQCN" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="Blade">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
