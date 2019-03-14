@@ -9,6 +9,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="063860d8-c2cf-452e-9653-00f24f55bcb7" name="dadymall" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
