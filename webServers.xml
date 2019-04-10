@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="41b4b7b5-8fe0-480b-a7bc-a7c59fec8534" name="DaddyMall" url="http://root@173.82.238.229/">
-        <fileTransfer host="173.82.238.229" port="22" rootFolder="/var/www/html/dadymall" accessType="SFTP">
+        <fileTransfer host="173.82.95.138" port="22" rootFolder="/var/www/html/dadymall" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
